@@ -1,0 +1,25 @@
+table, caption, th, td {
+    border: 2px solid black;
+}
+caption, th, td {
+    padding: 8px;
+}
+th {
+    background-color: aquamarine;
+}
+form.form {
+    display: table;
+}
+  
+div.form {
+    display: table-row;
+}
+  
+label,input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+  
+label {
+    padding-right: 10px;
+}
